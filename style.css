@@ -71,7 +71,6 @@ body {
   font: 500 1rem var(--body-font);
   transition: background 0.3s;
 
-  background-image: radial-gradient(circle,hsl(210deg,76%,60%) 20%,transparent 20%);
 
   background-size: 15% 15%;
 }
